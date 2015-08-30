@@ -1,15 +1,8 @@
 ﻿{
   "dependencies": {
-<<<<<<< 94fd60a32a5aa3547dccd59e1f69df4eeb22950b
-    "Coding4Fun.Toolkit.Controls": "2.1.2",
-    "Microsoft.ApplicationInsights": "1.0.0",
-    "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",
-    "Microsoft.ApplicationInsights.WindowsApps": "1.0.0",
-=======
     "Microsoft.ApplicationInsights": "1.2.0",
     "Microsoft.ApplicationInsights.PersistenceChannel": "1.2.0",
     "Microsoft.ApplicationInsights.WindowsApps": "1.1.0",
->>>>>>> commit
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
     "Splat": "1.6.2"
   },
